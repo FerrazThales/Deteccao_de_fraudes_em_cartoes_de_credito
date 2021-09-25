@@ -22,7 +22,7 @@
 
 <p>
   
-**Links para me acharem:**
+**Links para me acharem em outras redes:**
 * [Artigo meu desse projeto no Medium]()
 * [LinkedIn](https://www.linkedin.com/in/thalesdefreitasferraz/)
 * [Portfólio Completo](https://github.com/FerrazThales)
