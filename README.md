@@ -24,7 +24,7 @@ Dentro deste contexto, iremos realizar um projeto em que abordaremos o problema 
 <p>
   
 **Links para me acharem em outras redes:**
-* [Artigo meu desse projeto no Medium]()
+* [Artigo meu desse projeto no Medium](https://thalesferraz.medium.com/detectando-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-com-intelig%C3%AAncia-artificial-6b196f3ef87d)
 * [LinkedIn](https://www.linkedin.com/in/thalesdefreitasferraz/)
 * [Portfólio Completo](https://github.com/FerrazThales)
 
